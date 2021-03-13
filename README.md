@@ -30,7 +30,7 @@ Figure 9 shows the word cloud for the violation description from the inspections
 
 The results showed a significant association between health score vs total number of risks, latitude, and longitude. The research indicates that health condition is better in the spring period compared to other parts of the year. In the summer, the health score is less than the average of the year. The project provided a way to predict the risk category of a restaurant health condition in San Francisco based on its health score and geographic information. It also provided a list of perfect health score restaurants during the study period for consumers to choose. 
 
-**Reference:
+**Reference:**
 
 Restaurants Health Score Data in San Francisco (https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i/data)
 
