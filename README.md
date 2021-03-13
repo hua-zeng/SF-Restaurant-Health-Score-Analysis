@@ -16,9 +16,9 @@ From Figure 3, the heat map indicates that more restaurants have low risk events
 
 The average health score on restaurant level ranged from 56 to 100. Most restaurants had a health score in the range of 85-95 based on Figure 5. The number of total risk events of all the restaurants is distributed between 0 and 96. The number is right skewed with most restaurants had less than 10 risk events. There are 376 restaurants with perfect health score and no risk events have been found. Figure 6 shows the trend of average health score by month. From the plot, it seems the average health score increased during the spring period (February-May), and decreased in the summer period (June-August). 
 
-![Figure 6](https://github.com/hua-zeng/SF-Restaurant-Health-Score-Analysis/blob/main/fig6.jpg)
 ![Figure 7](https://github.com/hua-zeng/SF-Restaurant-Health-Score-Analysis/blob/main/fig7.jpg)
 ![Figure 8](https://github.com/hua-zeng/SF-Restaurant-Health-Score-Analysis/blob/main/fig8.jpg)
+![Figure 9](https://github.com/hua-zeng/SF-Restaurant-Health-Score-Analysis/blob/main/fig9.jpg)
 
 From Figure 7 we can see the total number of high risk events, no risk events, and month are significant variables which impact the average health score. The residual stand of error is 0.2825, which indicates that on average, using the least squares regression line to predict head count from reported health score, results in an error of about 0.2825. The k-Nearest Neighbor prediction method was used to predict the risk category based on health score, the longitude, and the latitude of the restaurant. The algorithm had an accuracy of 0.6622 based on the confusion matrix results from Figure 8. Figure 9 shows the word cloud for the violation description from the inspections. “Food”, “violation”, “inadequate”, “risk”, and “unclean” were the top 5 most frequent seen words in the description.
 
