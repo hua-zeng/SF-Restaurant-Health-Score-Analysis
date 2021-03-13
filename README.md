@@ -1,7 +1,7 @@
 # SF-Restaurant-Health-Score-Analysis
 The data of SF restaurant health score included information of year 2014-2016 and January of 2017. The minimum health score (inspection score) received by the restaurant during 2014-2017 is 46.  The maximum health score (inspection score) received by the restaurant during 2014-2017 is 100.  
 
-![alt text](https://github.com/hua-zeng/SF-Restaurant-Health-Score-Analysis/blob/main/fig1.jpg)
+![Figure 1](https://github.com/hua-zeng/SF-Restaurant-Health-Score-Analysis/blob/main/fig1.jpg)
 
 From Figure 1, most restaurants had a health score between 85 and 90. The health score is significantly different for the resultants with different risk level based on the ANOVA test. In all the years, the percentage of restaurants in the low risk category is highest among all risk categories. The percentages are all greater than 35% (40.8% in 2014, 35.9% in 2015, 39.2% in 2016, and 46.5% in 2017 respectively).  The number restaurants in low risk, moderate risk, or high risk is 13,873 in 2014, 9,573 in 2015, 16,983 in 2016, and 374 in January of 2017.  
 
